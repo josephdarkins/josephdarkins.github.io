@@ -17,6 +17,9 @@ export const metadata: Metadata = {
     "Digital Transformation",
   ],
   authors: [{ name: "Joseph Darkins" }],
+  icons: {
+    icon: "/favicon.svg",
+  },
   openGraph: {
     title: "Joseph Darkins | Technology Leader & CTO",
     description:

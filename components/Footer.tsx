@@ -28,13 +28,13 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/about" className="text-stone-400 hover:text-white transition-colors">
-                  About
+                <Link href="/technology" className="text-stone-400 hover:text-white transition-colors">
+                  Technology
                 </Link>
               </li>
               <li>
-                <Link href="/projects" className="text-stone-400 hover:text-white transition-colors">
-                  Projects
+                <Link href="/lacrosse" className="text-stone-400 hover:text-white transition-colors">
+                  Lacrosse
                 </Link>
               </li>
               <li>
@@ -63,12 +63,32 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://linkedin.com/in/josephdarkins"
+                  href="https://www.linkedin.com/in/joseph-darkins-0a950410/"
                   className="text-stone-400 hover:text-white transition-colors"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   LinkedIn
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://twitter.com/josephdarkins"
+                  className="text-stone-400 hover:text-white transition-colors"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Twitter
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://medium.com/@joseph.darkins"
+                  className="text-stone-400 hover:text-white transition-colors"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Medium
                 </a>
               </li>
               <li>
