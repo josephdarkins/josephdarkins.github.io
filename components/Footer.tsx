@@ -28,8 +28,8 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/technology" className="text-stone-400 hover:text-white transition-colors">
-                  Technology
+                <Link href="/about" className="text-stone-400 hover:text-white transition-colors">
+                  About
                 </Link>
               </li>
               <li>

@@ -8,7 +8,7 @@ export default function Navigation() {
 
   const navItems = [
     { href: "/", label: "Home" },
-    { href: "/technology", label: "Technology" },
+    { href: "/about", label: "About" },
     { href: "/lacrosse", label: "Lacrosse" },
     { href: "/blog", label: "Blog" },
   ];
@@ -22,7 +22,7 @@ export default function Navigation() {
             href="/"
             className="text-xl font-light tracking-tight text-stone-900 hover:text-stone-600 transition-colors"
           >
-            JD
+            Joseph Darkins
           </Link>
 
           {/* Desktop Navigation */}

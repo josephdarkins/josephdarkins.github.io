@@ -9,7 +9,6 @@ export default function sitemap() {
   const staticPages = [
     "",
     "about",
-    "projects",
     "lacrosse",
     "blog",
   ].map((page) => ({

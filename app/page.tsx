@@ -118,7 +118,7 @@ export default function Home() {
             Outside of work, I represented England in three World Indoor Lacrosse Championships and helped found the
             England Box Lacrosse Team. I enjoy travel, reading, skiing, and exploring how technology shapes the future.
           </p>
-          <Link href="/technology" className="inline-block text-stone-900 hover:text-stone-600 transition-colors font-light">
+          <Link href="/about" className="inline-block text-stone-900 hover:text-stone-600 transition-colors font-light">
             Full background →
           </Link>
         </div>
