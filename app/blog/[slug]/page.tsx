@@ -5,11 +5,8 @@ import ReactMarkdown from "react-markdown";
 
 export const dynamicParams = false;
 
-export function generateStaticParams() {
+export async function generateStaticParams() {
   const slugs = getPostSlugs();
-  if (slugs.length === 0) {
-    return [];
-  }
   return slugs.map((slug) => ({
     slug: slug,
   }));
