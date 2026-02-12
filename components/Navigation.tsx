@@ -22,7 +22,7 @@ export default function Navigation() {
             href="/"
             className="text-xl font-light tracking-tight text-stone-900 hover:text-stone-600 transition-colors"
           >
-            Joseph Darkins
+            JD
           </Link>
 
           {/* Desktop Navigation */}

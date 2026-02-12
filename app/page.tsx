@@ -11,7 +11,7 @@ export default function Home() {
         <div className="space-y-8">
           <div className="space-y-6">
             <h1 className="text-4xl md:text-5xl font-light tracking-tight leading-tight text-stone-900">
-              Technology Leader
+              Joseph Darkins
             </h1>
             <p className="text-lg text-stone-600 font-light leading-relaxed">
               I'm a CTO and product strategist passionate about AI, technology leadership, and building
